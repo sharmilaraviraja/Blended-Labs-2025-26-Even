@@ -114,7 +114,7 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/050435e1-e6d1-485d-a3bf-6ea596125893" />
+<img width="1600" height="809" alt="image" src="https://github.com/user-attachments/assets/f0fa2eef-f9e2-46c0-a73a-043c4c44931a" />
 
 
 (Insert Screenshot Here)
