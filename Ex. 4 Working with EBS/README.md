@@ -85,7 +85,7 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 3. Attach the created EBS volume to the running EC2 instance as an additional block device.
 4. Connect to the EC2 instance using SSH, format the attached volume with a file system (such as ext4), and mount it to a directory (for example, /mnt/ebs).
 5. Create files and store sample data inside the mounted volume, reboot the EC2 instance, and verify that the stored data remains available to confirm persistence.
-```
+
 
 ## Output Screenshots (Attach 3)
 
